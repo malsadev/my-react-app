@@ -1,0 +1,42 @@
+/* CustomFooter.css */
+.custom-footer-container {
+  background-color: #2B3A67; /* Primary Color for Footer Background */
+  color: #FFFFFF; /* White color for Text */
+}
+
+.custom-footer {
+  border-top: 1px solid #D4A017; /* Gold color for Border Top */
+}
+
+.custom-brand {
+  color: #FFFFFF; /* White color for Brand Link */
+}
+
+.custom-brand:hover {
+  color: #D4A017; /* Gold color on Hover for Brand Link */
+}
+
+.custom-text {
+  color: #eedcdc; /* White color for Text */
+}
+
+.custom-heading {
+  color: #D4A017; /* Gold color for Section Headings */
+}
+
+.custom-nav-link {
+  color: #F2F2F2; /* Light Grey color for Nav Links */
+}
+
+.custom-nav-link:hover {
+  color: #D4A017; /* Gold color on Hover for Nav Links */
+}
+
+.my-5 {
+  margin-top: 3rem !important;
+  margin-bottom: 0rem !important;
+}
+
+
+
+

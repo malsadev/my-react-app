@@ -1,0 +1,89 @@
+/* .container {
+    max-width: 960px;
+  } */
+
+  /* CustomStyles.css */
+
+/* Main container styles */
+.container1 {
+  background-color: #f8f9fa; /* Light background color */
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 960px;
+}
+
+/* Text Center styles */
+.py-5.text-center h2 {
+  color: #2B3A67; /* Primary Color for Heading */
+  margin-bottom: 20px;
+}
+
+/* Cart styles */
+.text-primary {
+  color: #2B3A67 !important; /* Primary color for text */
+}
+
+.badge.bg-primary {
+  background-color: #2B3A67 !important; /* Primary color for badge */
+}
+
+/* List group item styles */
+.list-group-item {
+  border: 1px solid #D4A017; /* Border color for list group items */
+}
+
+.list-group-item h6 {
+  color: #2B3A67; /* Primary color for item heading */
+}
+
+.text-body-secondary {
+  color: #6c757d; /* Secondary color for text */
+}
+
+.card.p-2 {
+  border: 1px solid #D4A017; /* Border color for card */
+  border-radius: 8px; /* Rounded corners for card */
+}
+
+/* Form styles */
+.form-control {
+  border: 1px solid #D4A017; /* Border color for form controls */
+  border-radius: 8px; /* Rounded corners for form controls */
+}
+
+.form-check-input:checked {
+  background-color: #2B3A67; /* Primary color for checked checkboxes/radio buttons */
+  border-color: #2B3A67; /* Primary color for checked checkboxes/radio buttons */
+}
+
+.form-check-label {
+  color: #2B3A67; /* Primary color for labels */
+}
+
+.form-label {
+  color: #2B3A67; /* Primary color for form labels */
+}
+
+.form-select {
+  border: 1px solid #D4A017; /* Border color for select inputs */
+  border-radius: 8px; /* Rounded corners for select inputs */
+}
+
+.btn-secondary {
+  background-color: #D4A017; /* Secondary button background color */
+  border-color: #D4A017; /* Secondary button border color */
+}
+
+.btn-primary {
+  background-color: #2B3A67; /* Primary button background color */
+  border-color: #2B3A67; /* Primary button border color */
+}
+
+.w-100.btn-primary:hover {
+  background-color: #1f2951; /* Darker shade for hover */
+  border-color: #1f2951; /* Darker shade for hover */
+}
+
+.invalid-feedback {
+  color: #D9534F; /* Error message color */
+}

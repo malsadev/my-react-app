@@ -1,0 +1,46 @@
+/* CustomGalleryAndTeam.css */
+.custom-main {
+    background-color: #FFFFFF; /* White background for the main content */
+  }
+  
+  .custom-carousel {
+    background-color: #F2F2F2; /* Light Grey background for the carousel */
+  }
+  
+  .custom-carousel-heading {
+    color: #2B3A67; /* Dark Blue for Carousel Headings */
+  }
+  
+  .custom-carousel-text {
+    color: #333333; /* Dark Grey for Carousel Text */
+  }
+  
+  .custom-carousel-btn {
+    background-color: #2B3A67; /* Dark Blue for Carousel Buttons */
+    border-color: #2B3A67;
+    color: #FFFFFF; /* White for Button Text */
+  }
+  
+  .custom-carousel-btn:hover {
+    background-color: #D4A017; /* Gold on Hover for Carousel Buttons */
+    border-color: #D4A017;
+  }
+  
+  .custom-carousel-control .carousel-control-prev-icon,
+  .custom-carousel-control .carousel-control-next-icon {
+    background-color: #2B3A67; /* Dark Blue for Carousel Controls */
+    border-radius: 50%;
+  }
+  
+  .custom-team-image {
+    background-color: #6C757D; /* Placeholder color for team images */
+  }
+  
+  .custom-team-heading {
+    color: #2B3A67; /* Dark Blue for Team Headings */
+  }
+  
+  .custom-team-text {
+    color: #333333; /* Dark Grey for Team Text */
+  }
+  

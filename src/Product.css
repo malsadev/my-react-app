@@ -1,0 +1,11 @@
+.fit-image {
+    width: 95%; /* Adjust as needed to fit the image a little less than the parent */
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 2.5%; /* Adjust padding as needed */
+    box-sizing: border-box; /* Ensure padding is included in the element's total width and height */
+    object-fit: cover; /* Cover ensures the image maintains its aspect ratio */
+    /* padding: '40px'; */
+    borderRadius: '50px'
+}
